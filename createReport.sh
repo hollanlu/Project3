@@ -1,3 +1,3 @@
 #! /bin/bash
 
-$files
+wc -l > "$1"
